@@ -1,8 +1,28 @@
-h1 {font-family: Arial, Helvetica, sans-serif;
+.PEPE {font-family: Arial, Helvetica, sans-serif;
 	color: #EBD68D;
 	text-align: center;
 
 }
+
+.vendidos {font-family: Arial, Helvetica, sans-serif;
+	color: #F09D7A;
+
+}
+
+.oversized {font-family: Arial, Helvetica, sans-serif;
+	color: #C2E9FA;
+}
+
+.invierno {font-family: Arial, Helvetica, sans-serif;
+	color: #DCF07A;
+}
+
+.vendemos {font-family: Arial, Helvetica, sans-serif;
+	color: #FA845E;
+}
+
+.niños {font-family: fantasy;
+	color: #7AF0AD;}
 
 .naV a{ 
 	  width: 1400px;
@@ -19,3 +39,4 @@ li{ list-style-type: none;
 a{ float: right;
  
 }
+
