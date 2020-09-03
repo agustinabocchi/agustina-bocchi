@@ -1,0 +1,21 @@
+h1 {font-family: Arial, Helvetica, sans-serif;
+	color: #EBD68D;
+	text-align: center;
+
+}
+
+.naV a{ 
+	  width: 1400px;
+      background-color: #FABE9F; 
+      font-family: Linux;
+      text-align: center;
+
+}
+
+li{ list-style-type: none;
+
+}
+
+a{ float: right;
+ 
+}
