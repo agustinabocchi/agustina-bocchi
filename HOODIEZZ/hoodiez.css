@@ -1,0 +1,103 @@
+.PEPE {font-family: Arial, Helvetica, sans-serif;
+	color: #EBD68D;
+	text-align: center;
+
+}
+
+.vendidos {font-family: Arial, Helvetica, sans-serif;
+	color: #F09D7A;
+
+}
+
+.oversized {font-family: fantasy;
+	color: #7AF0AD;
+}
+
+.invierno {font-family: Arial, Helvetica, sans-serif;
+	color: #DCF07A;
+}
+
+.vendemos {font-family: Arial, Helvetica, sans-serif;
+	color: #FA845E;
+}
+
+.niños {font-family: fantasy;
+	color: #7AF0AD;}
+
+.PEPE {font-family: Arial, Helvetica, sans-serif;
+	color: #EBD68D;
+	text-align: center;
+
+}
+
+.vendidos {font-family: Arial, Helvetica, sans-serif;
+	color: #F09D7A;
+
+}
+
+.oversized {font-family: fantasy;
+	color: #7AF0AD;
+}
+
+.invierno {font-family: Arial, Helvetica, sans-serif;
+	color: #DCF07A;
+}
+
+.vendemos {font-family: Arial, Helvetica, sans-serif;
+	color: #FA845E;
+}
+
+.niños {font-family: fantasy;
+	color: #7AF0AD;}
+
+.naV a{ 
+	  width: 1400px;
+      background-color: #FABE9F; 
+      font-family: Linux;
+      text-align: center;
+      float: right;
+
+}
+
+
+
+
+.tel {font-family: Arial, Helvetica, sans-serif;
+	
+
+}
+
+.contact {background-color: #FACFAB
+}
+
+li{ list-style-type: none;
+
+}
+/*
+a{ 
+ 
+}*/
+
+
+.ho a{font-family: Arial, Helvetica, sans-serif;
+	color: #68ACE6;
+	text-align: center;
+	font-size: 150px
+
+}
+
+.color a:hover{
+	background-color: #68ACE6
+	border-bottom-style: solid;
+	border-bottom-color: #f00;
+	background-color: #CC807A;
+	padding:5px;
+
+}
+
+.hood a{font-family: Arial, Helvetica, sans-serif;
+	color: #68ACE6;
+	text-align: center;
+	font-size: 80px
+
+}
